@@ -4,6 +4,7 @@
   </head>
 
   <body>
+    <header>Coltivare</header>
     <h1> Who We Are </h1>
     <p> Since our founding in 2015, Coltivare has focused on one simple mission: <i>helping farmers</i> grow smarter and more sustainable crops and livestock. What began as a small team of agronomists and aeronautical engineers from Purdue University researching drone automation and computer vision has grown into a trusted provider of innovative products and services for the agriculture industry.
 <br>
