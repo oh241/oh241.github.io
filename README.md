@@ -16,6 +16,7 @@ Today, Coltivare continues that mission by delivering cutting-edge precision agr
 In our first 10 years of operations Coltivare has already become a trusted partner for thousands of farmers providing them with tools and services that enable them to have data driven insights that empower them to optimize farm operations, reduce waste, and drive improvements in sustainabiity. As we look towards the next decade of operations for our company we remain committed to helping farmers grow smarter and more sustainable crops and livestock by driving innovation in agriculture. </p>
 
   <h1> Company Values </h1>
+  <p>Every member of our team commits to upholding these values, reflecting our dedication to farmers and the communities we operate in.</p>
   <li>Farmers First</li>
   <li>Integrity</li>
   <li>Sustainability</li>
