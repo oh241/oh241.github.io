@@ -17,7 +17,7 @@ In our first 10 years of operations Coltivare has already become a trusted partn
 
   <h1> Company Values </h1>
   <p>Every member of our team commits to upholding these values, reflecting our dedication to farmers and the communities we operate in.</p>
-  <li>Farmers First</li>
+  <li><b><u>Farmers First</b></u></li>
   <li>Integrity</li>
   <li>Sustainability</li>
   <li>Innovation</li>
