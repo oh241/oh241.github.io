@@ -6,7 +6,7 @@ Repository for MGMT 382
   </head>
 
   <body>
-    <h3> Company Name </h3>
+    <h1> style="backgroun-color:Coltivare </h1>
     
   </body>
 </html>
