@@ -6,7 +6,7 @@ Repository for MGMT 382
   </head>
 
   <body>
-    <h1> style="text-align:center;"Coltivare</h1>
+    <h1 style="text-align:center;"> Coltivare </h1>
     
   </body>
 </html>
