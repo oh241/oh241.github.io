@@ -7,9 +7,11 @@ Repository for MGMT 382
 
   <body>
     <h1> Who We Are </h1>
-    <p> Founded in 2014, Coltivare was built on a simple mission: to help farmers grow smarter and more sustainably. What began as a small team of agronomists and engineers in Iowa has grown into a trusted provider of innovative products and services for the farming industry.
-
-From precision agriculture tools and custom seed solutions to irrigation systems and expert advisory services, we empower farmers to make better decisions for their land, crops, and bottom line. Today, Coltivare supports thousands of farms across North America—cultivating progress, resilience, and a better future for agriculture. <p>
+    <p> Since our founding in 2015, Coltivare has focused on one simple mission: helping farmers grow smarter and more sustainable crops and livestock. What began as a small team of agronomists and aeronautical engineers from Purdue University researching drone automation and computer vision has grown into a trusted provider of innovative products and services for the agriculture industry.
+<br>
+Today, Coltivare continues that mission by delivering cutting-edge precision agriculture tools and services. Leveraging our core competencies in drones and computer vision, we help farmers detect issues early—before they escalate—and minimize waste. Our drones and proprietary software enable farmers to more accurately monitor crops and herds and identify key problems such as: water and heat stress, disease, soil erosion, projected yields, and more. 
+<br>
+In our first 10 years of operations Coltivare has already become a trusted partner for thousands of farmers providing them with tools and services that enable them to have data driven insights that empower them to optimize farm operations, reduce waste, and drive improvements in sustainabiity. As we look towards the next decade of operations for our company we remain committed to helping farmers grow smarter and more sustainable crops and livestock by driving innovation in agriculture. </p>
     
     
   </body>
